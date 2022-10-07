@@ -1,0 +1,2 @@
+An election system, made using smart contract where a single contract is to be deployed per ballot by the owner. Then the owner selects members of the election committee. The committe members possess the rights to give voting powers to each registered voter.
+The voter has only one vote allowed and the list of voters is maintained publicly. Finally the contract also can calculate the winner of the elections.
